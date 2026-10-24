@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="820" viewBox="0 0 1280 820" role="img" aria-labelledby="title desc">
+  <title id="title">Expressify AI architecture</title>
+  <desc id="desc">Android UI coordinates local video, 3D, vision, speech and storage. Limited authorized metadata crosses HTTPS to an Express backend connected to MongoDB Atlas, an administrator dashboard and optional Gemini text generation.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#12665F"/></marker>
+    <style>text{font-family:Arial,Helvetica,sans-serif;fill:#18313C}.title{font-size:32px;font-weight:700}.label{font-size:19px;font-weight:700}.body{font-size:16px}.small{font-size:14px}.line{fill:none;stroke:#12665F;stroke-width:2.5;marker-end:url(#arrow)}.box{stroke:#C7D8D1;stroke-width:1.5}</style>
+  </defs>
+  <rect width="1280" height="820" rx="20" fill="#F8F7F3"/>
+  <text x="42" y="55" class="title">Expressify AI</text>
+  <text x="42" y="85" class="body">Local sensing and media with a separate account and reporting backend</text>
+  <rect x="32" y="116" width="730" height="605" rx="20" fill="#E4EEE4" class="box"/>
+  <text x="56" y="151" class="label">ANDROID PHONE</text>
+  <rect x="68" y="178" width="655" height="91" rx="13" fill="#FFFFFF" class="box"/>
+  <text x="91" y="210" class="label">React Native and TypeScript</text>
+  <text x="91" y="240" class="body">Home · 10 scenarios · Expression Coach · 36 games · Progress</text>
+  <path d="M225 269V311" class="line"/>
+  <path d="M543 269V311" class="line"/>
+  <rect x="68" y="313" width="298" height="103" rx="13" fill="#FFFFFF" class="box"/>
+  <text x="88" y="345" class="label">Bundled media and 3D</text>
+  <text x="88" y="374" class="body">MP4 scenes and illustrations</text>
+  <text x="88" y="398" class="body">Three.js guide in WebView</text>
+  <rect x="395" y="313" width="328" height="103" rx="13" fill="#FFFFFF" class="box"/>
+  <text x="415" y="345" class="label">Kotlin device modules</text>
+  <text x="415" y="374" class="body">Camera · speech · lifecycle</text>
+  <text x="415" y="398" class="body">Android PDF export</text>
+  <path d="M482 416V433H240V450" class="line"/>
+  <path d="M639 416V450" class="line"/>
+  <rect x="68" y="452" width="346" height="115" rx="13" fill="#FFFFFF" class="box"/>
+  <text x="88" y="484" class="label">Local vision</text>
+  <text x="88" y="513" class="body">MediaPipe face and hand landmarks</text>
+  <text x="88" y="540" class="body">TFLite MobileNet / ONNX alternative</text>
+  <rect x="442" y="452" width="281" height="115" rx="13" fill="#FFFFFF" class="box"/>
+  <text x="462" y="484" class="label">Local speech</text>
+  <text x="462" y="513" class="body">Vosk offline recognition</text>
+  <text x="462" y="540" class="body">Android TTS narration</text>
+  <rect x="68" y="603" width="655" height="84" rx="13" fill="#FFFFFF" class="box"/>
+  <text x="88" y="635" class="label">AsyncStorage</text>
+  <text x="88" y="664" class="body">Account-scoped participation journal · preferences · sync state</text>
+  <rect x="840" y="178" width="394" height="111" rx="14" fill="#18313C"/>
+  <text x="864" y="214" style="fill:white;font-size:22px;font-weight:700">Express API on Node.js</text>
+  <text x="864" y="244" style="fill:white;font-size:16px">Accounts · authorization · activity sync</text>
+  <text x="864" y="269" style="fill:white;font-size:16px">Stored reports · goals · scored receipts</text>
+  <path d="M723 220H836" class="line"/>
+  <text x="773" y="196" class="small">HTTPS</text>
+  <path d="M1036 289V350" class="line"/>
+  <rect x="840" y="353" width="394" height="89" rx="13" fill="#E4EEE4" class="box"/>
+  <text x="864" y="387" class="label">MongoDB Atlas and Mongoose</text>
+  <text x="864" y="417" class="body">Identity, visits, attempts, goals and audit</text>
+  <rect x="840" y="481" width="394" height="89" rx="13" fill="#ECE6F2" class="box"/>
+  <text x="864" y="515" class="label">Administrator web dashboard</text>
+  <text x="864" y="545" class="body">Accounts, approved links and curriculum</text>
+  <path d="M1220 481V298" class="line"/>
+  <rect x="840" y="608" width="394" height="79" rx="13" fill="#F7E5D9" class="box"/>
+  <text x="864" y="640" class="label">Optional Gemini text generation</text>
+  <text x="864" y="668" class="body">Authored fallback content on failure</text>
+  <path d="M841 647H793V273H838" class="line" stroke-dasharray="6 5"/>
+  <text x="42" y="762" class="label">Camera images and microphone audio stay on the device in normal activity flows.</text>
+  <text x="42" y="793" class="body">Participation, knowledge-check scores and camera matches remain separate kinds of evidence.</text>
+</svg>

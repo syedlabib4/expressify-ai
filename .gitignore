@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+*.log
+*.keystore
+*.jks
+*.apk
+*.aab
